@@ -1,0 +1,6 @@
+framework module Pods_developes_social {
+  umbrella header "Pods-developes-social-umbrella.h"
+
+  export *
+  module * { export * }
+}
